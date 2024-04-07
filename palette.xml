@@ -1,0 +1,16 @@
+<screen>
+  <title>Color Palette</title>
+
+  <container>
+    <color>
+      <color_image></color_image>
+      <color_name></color_name>
+      <color_rgb></color_rgb>
+      <color_cymk></color_cymk>
+      <color_hex></color_hex>
+      <color_production><color_production>
+      <color_description></color_description>
+    <color>
+  </container>
+
+</screen>
