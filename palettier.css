@@ -1,0 +1,158 @@
+body {
+  background-color: #131212;
+  border: lime;
+
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-top: 128px;
+}
+
+title {
+  color: #C06E5F;
+/*  background-color: #673232;*/
+
+  display: block;
+  white-space: pre;
+  text-align: center;
+
+  padding-left: 256px;
+  padding-right: 256px;
+}
+
+screen {
+  background-color: #131212; 
+  color: #464748;
+
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-top: 128px;
+}
+
+container {
+  padding-left: 256px;
+  padding-right: 256px;
+  padding-top: 256px;
+  padding-top: 256px;
+}
+
+color {
+  color: #A25D50;
+  background-color: #2B1815;
+
+/*  background-repeat: no-repeat;
+  background-size: 336px 197px;*/
+
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+bistre_sangui {
+  background-image: url("bistresangui.png");
+  color: #464748;
+
+  background-repeat: no-repeat;
+  background-size: 25% 100%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  padding-left: 256px;
+  padding-right: 256px;
+  padding-top: 256px;
+  padding-top: 256px;
+}
+
+kuria {
+  background-image: url("KuriaSuperdark.png");
+  color: #464748;
+
+  background-repeat: no-repeat;
+  background-size: 25% 100%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  padding-left: 256px;
+  padding-right: 256px;
+  padding-top: 256px;
+  padding-top: 256px;
+}
+
+color_name {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+  white-space: pre;
+}
+
+color_rgb {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+  white-space: pre;
+}
+
+color_cymk {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+  white-space: pre;
+}
+
+color_hex {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+  white-space: pre;
+}
+
+color_production {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+}
+
+color_description {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+}
+
+highlight {
+  color: #C06E5F;
+  background-color: #673232;
+
+  display: block;
+  white-space: pre;
+}
+
+color_image_name {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+  white-space: pre;
+}
+
+color_image_description {
+  color: #A25D50;
+  background-color: #2B1815;
+
+  display: block;
+  white-space: pre;
+}
