@@ -12,6 +12,7 @@
       <color_rgb><highlight>RGB VALUE:</highlight> 102, 58, 51</color_rgb>
       <color_cymk><highlight>CYML VALUE:</highlight> 0, 110, 128, 153</color_cymk>
       <color_hex><highlight>HEX VALUE:</highlight> #663A33</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Mysterious Depletion</color_psychology>
       <color_production><highlight>PRODUCTION:</highlight> This color is produced by blending standard Bistre or French Grey with Japanese Maple.</color_production>
       <color_description><highlight>DESCRIPTION:</highlight>A shade of bistre with a slight reddish cast that is often used for depicting blood spatter and similar effects.</color_description>
     </color>
@@ -25,8 +26,37 @@
       <color_rgb><highlight>RGB VALUE:</highlight> 87, 69, 52</color_rgb>
       <color_cymk><highlight>CYML VALUE:</highlight> 0, 53, 128, 168</color_cymk>
       <color_hex><highlight>HEX VALUE:</highlight> #574534</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Mysterious Isolation</color_psychology>
       <color_production><highlight>PRODUCTION:</highlight> This color is produced by blending 41.21 percent red, 32.97 percent green, and 25.82 percent blue.</color_production>
       <color_description><highlight>DESCRIPTION:</highlight>A shade of bistre that has an even deeper orange cast produced by burning Sawtooth oak and boiling its soot. Technically it is theoretical color, and darkened with a French Grey-Black with a purple cast</color_description>
+    </color>
+  </container>
+
+  <container>
+    <color>
+      <frencheclipsedark></frencheclipsedark>
+
+      <color_name><highlight>COLOR NAME:</highlight> French Eclipse ( Dark )</color_name>
+      <color_rgb><highlight>RGB VALUE:</highlight> 33, 33, 34</color_rgb>
+      <color_cymk><highlight>CYML VALUE:</highlight> 15, 15, 0, 220</color_cymk>
+      <color_hex><highlight>HEX VALUE:</highlight> #212123</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Sadness, Envy, and Death</color_psychology>
+      <color_production><highlight>PRODUCTION:</highlight> This color is an inversion of Eclipse Superdark.</color_production>
+      <color_description><highlight>DESCRIPTION:</highlight>An inversion of the Eclipse Superdark, which is more reddish-black.</color_description>
+    </color>
+  </container>
+
+  <container>
+    <color>
+      <cyanwhite></cyanwhite>
+
+      <color_name><highlight>COLOR NAME:</highlight> Cyan Silver</color_name>
+      <color_rgb><highlight>RGB VALUE:</highlight> 222, 222, 224</color_rgb>
+      <color_cymk><highlight>CYML VALUE:</highlight> 2, 2, 0, 31</color_cymk>
+      <color_hex><highlight>HEX VALUE:</highlight> #DEDEE0</color_hex>
+      <color_psychology><highlight>EMOTION:</highlight> Mysterious, Innocense, Sadness</color_psychology>
+      <color_production><highlight>PRODUCTION:</highlight> This color is the off white equivalent to French Eclipse.</color_production>
+      <color_description><highlight>DESCRIPTION:</highlight>This color represents innocense, feminine energy, and the mysterious.</color_description>
     </color>
   </container>
 
